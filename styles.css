@@ -1,0 +1,26 @@
+body {
+    background-color: burlywood;
+}
+.blog-card-container {
+    position: relative;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.blog-card {
+    background-color: white;
+    width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px 20px 0 0;
+    font-family: Arial, sans-serif;
+}
+img {
+    width: 300px;
+    height: 200px;
+}
+.blog-content {
+    padding: 10px;
+}
